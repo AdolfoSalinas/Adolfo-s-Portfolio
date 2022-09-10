@@ -45,4 +45,7 @@ An elastic net regression to predict home prices with grid search
 ![image](https://user-images.githubusercontent.com/44706605/189504765-5fc1df63-25a7-4965-88d6-e15e0db01977.png)
 
 # [Project 6 HeadcountModel -- Excel](https://github.com/AdolfoSalinas/HeadcountModel/tree/main)
-Model to allocate headcount by distribution center complexity
+Model to allocate headcount by distribution center complexity.
+
+![image](https://user-images.githubusercontent.com/44706605/189504986-cdb079f0-efca-48af-a62a-821ae8d2cb1d.png)
+
