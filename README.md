@@ -14,7 +14,7 @@ Purpose The purpose of this project was to give the requesting department an ad-
 
 ![image](https://user-images.githubusercontent.com/44706605/189499272-c6eb10e4-2295-4561-ac07-8aa1b433f22c.png)
 
-[Asset Dormancy Tracker -- Excel](https://github.com/AdolfoSalinas/DormancyTracker/blob/main/README.md)
+[Project 2: Asset Dormancy Tracker -- Excel](https://github.com/AdolfoSalinas/DormancyTracker/blob/main/README.md)
 
 
 The purpose of this product is to track trailer dormancy for both company and 3rd party assets.
@@ -26,7 +26,7 @@ The purpose of this product is to track trailer dormancy for both company and 3r
 ![image](https://user-images.githubusercontent.com/44706605/189499958-50e730a9-b0ac-4a48-9e1a-4c06dfe356e0.png)
 
 
-# [Human_Resources_Classifier](https://github.com/AdolfoSalinas/Human_Resources_Classifier/blob/main/README.md)
+# [Project 3: Human_Resources_Classifier](https://github.com/AdolfoSalinas/Human_Resources_Classifier/blob/main/README.md)
 
 Create a classifier using Human Resources data to determine which Employees are most likely to quit.
 Compare outputs of Logistic Regression, Random Forest and Artificial Neural Network.
