@@ -39,6 +39,7 @@ The ANN was the worst performer but would likely need more tuning of the paramet
 ![image](https://user-images.githubusercontent.com/44706605/189500670-d1528f74-d7ec-47a8-8b50-0c0b7019bd01.png)
 
 
-Elastic Net Regression Housing Data
+# [Elastic Net Regression Housing Data](https://github.com/AdolfoSalinas/ElasticNetRegression_HousingData)
 An elastic net regression to predict home prices with grid search
 
+![image](https://user-images.githubusercontent.com/44706605/189504765-5fc1df63-25a7-4965-88d6-e15e0db01977.png)
