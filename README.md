@@ -39,17 +39,17 @@ The ANN was the worst performer but would likely need more tuning of the paramet
 ![image](https://user-images.githubusercontent.com/44706605/189500670-d1528f74-d7ec-47a8-8b50-0c0b7019bd01.png)
 
 
-#  [Project 5 Elastic Net Regression Housing Data and Grid Search --Pyhton/Regression/Supervised](https://github.com/AdolfoSalinas/ElasticNetRegression_HousingData)
+#  [Project 5: Elastic Net Regression Housing Data and Grid Search --Pyhton/Regression/Supervised](https://github.com/AdolfoSalinas/ElasticNetRegression_HousingData)
 An elastic net regression to predict home prices with grid search
 
 ![image](https://user-images.githubusercontent.com/44706605/189504765-5fc1df63-25a7-4965-88d6-e15e0db01977.png)
 
-# [Project 6 HeadcountModel -- Excel](https://github.com/AdolfoSalinas/HeadcountModel/tree/main)
+# [Project 6: HeadcountModel -- Excel](https://github.com/AdolfoSalinas/HeadcountModel/tree/main)
 Model to allocate headcount by distribution center complexity.
 
 ![image](https://user-images.githubusercontent.com/44706605/189504986-cdb079f0-efca-48af-a62a-821ae8d2cb1d.png)
 
-#[ Project 6 ExponExponentialTripleSmoothingForecast_Excel](https://github.com/AdolfoSalinas/ExponentialTripleSmoothingForecast_Excel)
+# [Project 7: Triple Exponential Smoothing Forecast --Excel](https://github.com/AdolfoSalinas/ExponentialTripleSmoothingForecast_Excel)
 Supply side forecast used for labor planning in multiple locations. This tool was deployed to a production environment.
 
 ![image](https://user-images.githubusercontent.com/44706605/189505208-55e90452-1ca3-41e2-a1f1-819d8cf58339.png)
