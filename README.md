@@ -78,7 +78,7 @@ A demand forecast created with Python taking into account seasonality and exogen
 
 
 
-# [Logistics Analysis Tool --SQL/Excel/PowerQuery/PowerPivot](https://github.com/AdolfoSalinas/Analysis-Tool-SQL-Excel-PowerQuery-PowerPivot)
+# [Project 8: Logistics Analysis Tool --SQL/Excel/PowerQuery/PowerPivot](https://github.com/AdolfoSalinas/Analysis-Tool-SQL-Excel-PowerQuery-PowerPivot)
 The tool was developed to do extensive analysis on trailer dormancy and counts. This tool was used in a production environment
 
 ![image](https://user-images.githubusercontent.com/44706605/190205938-7214b68f-62fd-44ad-a7d4-0005160fb047.png)
