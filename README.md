@@ -55,4 +55,8 @@ Supply side forecast used for labor planning in multiple locations. This tool wa
 ![image](https://user-images.githubusercontent.com/44706605/189505208-55e90452-1ca3-41e2-a1f1-819d8cf58339.png)
 
 # [Project 7: SARIMAX Forecast --Pything and SciKit Learn](https://github.com/AdolfoSalinas/SARIMAX_Python_Forecast)
+A demand forecast created with Python taking into account seasonality and exogenous variables.
+
+![image](https://user-images.githubusercontent.com/44706605/190205359-2416bcf5-686d-41d5-9f7c-8c1508be4acc.png)
+
 
