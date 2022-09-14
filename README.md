@@ -26,6 +26,8 @@ The purpose of this product is to track trailer dormancy for both company and 3r
 ![image](https://user-images.githubusercontent.com/44706605/189499958-50e730a9-b0ac-4a48-9e1a-4c06dfe356e0.png)
 
 
+
+
 # [Project 3: Human Resources Classifier -- Logistic Regression/Random Forest and Artificial/Neural Network](https://github.com/AdolfoSalinas/Human_Resources_Classifier/blob/main/README.md)
 
 Create a classifier using Human Resources data to determine which Employees are most likely to quit.
@@ -39,24 +41,44 @@ The ANN was the worst performer but would likely need more tuning of the paramet
 ![image](https://user-images.githubusercontent.com/44706605/189500670-d1528f74-d7ec-47a8-8b50-0c0b7019bd01.png)
 
 
+
+
 #  [Project 4: Elastic Net Regression Housing Data and Grid Search --Pyhton/Regression/Supervised](https://github.com/AdolfoSalinas/ElasticNetRegression_HousingData)
 An elastic net regression to predict home prices with grid search
 
 ![image](https://user-images.githubusercontent.com/44706605/189504765-5fc1df63-25a7-4965-88d6-e15e0db01977.png)
+
+
+
+
 
 # [Project 5: HeadcountModel -- Excel](https://github.com/AdolfoSalinas/HeadcountModel/tree/main)
 Model to allocate headcount by distribution center complexity.
 
 ![image](https://user-images.githubusercontent.com/44706605/189504986-cdb079f0-efca-48af-a62a-821ae8d2cb1d.png)
 
+
+
+
+
 # [Project 6: Triple Exponential Smoothing Forecast --Excel](https://github.com/AdolfoSalinas/ExponentialTripleSmoothingForecast_Excel)
 Supply side forecast used for labor planning in multiple locations. This tool was deployed to a production environment.
 
 ![image](https://user-images.githubusercontent.com/44706605/189505208-55e90452-1ca3-41e2-a1f1-819d8cf58339.png)
 
+
+
+
+
 # [Project 7: SARIMAX Forecast --Pything and SciKit Learn](https://github.com/AdolfoSalinas/SARIMAX_Python_Forecast)
 A demand forecast created with Python taking into account seasonality and exogenous variables.
 
 ![image](https://user-images.githubusercontent.com/44706605/190205359-2416bcf5-686d-41d5-9f7c-8c1508be4acc.png)
+
+
+
+
+# Logistics Analysis Tool --SQL/Excel/PowerQuery/PowerPivot
+The tool was developed to do extensive analysis on trailer dormancy and counts. This tool was used in a production environment
 
 
