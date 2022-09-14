@@ -54,4 +54,5 @@ Supply side forecast used for labor planning in multiple locations. This tool wa
 
 ![image](https://user-images.githubusercontent.com/44706605/189505208-55e90452-1ca3-41e2-a1f1-819d8cf58339.png)
 
+# [Project 7: SARIMAX Forecast --Pything and SciKit Learn](https://github.com/AdolfoSalinas/SARIMAX_Python_Forecast)
 
