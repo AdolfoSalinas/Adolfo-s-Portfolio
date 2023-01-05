@@ -43,7 +43,7 @@ The ANN was the worst performer but would likely need more tuning of the paramet
 
 
 
-#  [Project 4: Elastic Net Regression Housing Data and Grid Search --Pyhton/Regression/Supervised](https://github.com/AdolfoSalinas/ElasticNetRegression_HousingData)
+#  [Project 4: Elastic Net Regression Housing Data and Grid Search --Python/Regression/Supervised](https://github.com/AdolfoSalinas/ElasticNetRegression_HousingData)
 An elastic net regression to predict home prices with grid search
 
 ![image](https://user-images.githubusercontent.com/44706605/189504765-5fc1df63-25a7-4965-88d6-e15e0db01977.png)
@@ -70,7 +70,7 @@ Supply side forecast used for labor planning in multiple locations. This tool wa
 
 
 
-# [Project 7: SARIMAX Forecast --Pything and SciKit Learn](https://github.com/AdolfoSalinas/SARIMAX_Python_Forecast)
+# [Project 7: SARIMAX Forecast --Python and SciKit Learn](https://github.com/AdolfoSalinas/SARIMAX_Python_Forecast)
 A demand forecast created with Python taking into account seasonality and exogenous variables.
 
 ![image](https://user-images.githubusercontent.com/44706605/190205359-2416bcf5-686d-41d5-9f7c-8c1508be4acc.png)
